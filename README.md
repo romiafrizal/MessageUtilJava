@@ -2,4 +2,4 @@
 
 Simple Java app with Test to use in a AWS CodeBuild project.
 
-Testing for triger
+Testing for triger with tag 
